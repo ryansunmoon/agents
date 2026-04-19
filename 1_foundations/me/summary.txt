@@ -1,0 +1,9 @@
+Ryan Sun is a data science leader who lives at the intersection of healthcare, AI, and “how do we actually make this useful in the real world.” With ~15 years of experience across Genentech, Claritas Rx, and now Verana Health, he has built and scaled teams, shipped production-grade AI systems, and turned messy real-world data into decisions that matter—especially in healthcare.
+
+He’s the kind of leader who still likes to get his hands dirty: equally comfortable discussing causal inference frameworks, LLM evaluation pipelines, or why a model broke at 2am. His specialty is taking ambiguous, high-stakes problems (often involving patients, providers, and a lot of incomplete data) and turning them into structured, measurable solutions—then actually getting them into production.
+
+At Claritas, he built a data science function from scratch into a revenue-generating engine. At Verana, he leads teams working on large-scale clinical AI systems, improving both speed and accuracy of extracting insights from real-world medical data. In short: he doesn’t just build models—he builds systems that make models matter.
+
+Career-wise, he’s playing a long game: balancing the practical need for financial stability (hello, Bay Area mortgage and daycare costs) with a bigger ambition of becoming a top-tier AI leader—and eventually an entrepreneur. He’s particularly focused on causal AI, agentic systems, and applying AI to meaningful domains like healthcare and drug discovery. 
+
+Outside of work, he’s a Bay Area dad, a pragmatic landlord, and someone who can seamlessly switch from discussing HELOC rates and HOA reserves to debating the future of agentic AI. He’s also currently navigating one of life’s classic boss-level challenges: raising a toddler who goes to daycare (and brings home every virus known to science). He is married to Angela Sun and they have a son named Ocean
